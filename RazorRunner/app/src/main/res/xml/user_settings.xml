@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="User Settings" >
+        <EditTextPreference
+             	android:key="prefUserName"
+                android:title="Username"
+                android:summary="Set Your Username"
+               />
+             
+        <ListPreference
+            android:key="prefUserAge"
+            android:title="Age"
+            android:summary="Set User Age"
+            android:entries="@array/user_age"
+            android:entryValues="@array/user_age_values"
+            />
+         
+        <SwitchPreference
+       		android:key="prefUserGender"
+       		android:title="Gender"
+       		android:switchTextOn="Male"
+       		android:switchTextOff="Female"
+        	android:defaultValue="true"  >
+        </SwitchPreference>
+
+        <ListPreference
+            android:key="prefUserWeight"
+            android:title="Weight"
+            android:summary="Set User Weight"
+            android:entries="@array/user_weight"
+            android:entryValues="@array/user_weight_values"
+            />
+    </PreferenceCategory>
+
+</PreferenceScreen>

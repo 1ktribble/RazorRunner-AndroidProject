@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Kai Tribble\AndroidstudioProjects\RazorRunner\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-5a65152d77d7a25c482f5ef1ad63fdfac55e1b3f.jar"
+        jar="C:\Users\Kai Tribble\AndroidstudioProjects\RazorRunner\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\Kai Tribble\AndroidstudioProjects\RazorRunner\app\build\intermediates\pre-dexed\debug\classes-ec28e8020c56478287bc52bf9089e06cbccc3ec8.jar"
+        jar="C:\Users\Kai Tribble\AndroidstudioProjects\RazorRunner\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\Kai Tribble\AndroidstudioProjects\RazorRunner\app\build\intermediates\pre-dexed\debug\classes-269567c81a25c04b59bcb140ceb32508895b4cfc.jar"
+        jar="C:\Users\Kai Tribble\AndroidstudioProjects\RazorRunner\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="C:\Users\Kai Tribble\AndroidstudioProjects\RazorRunner\app\build\intermediates\pre-dexed\debug\classes-960de7cf14d0381c75f0625ff215852d85ef1627.jar"
+        jar="C:\Users\Kai Tribble\AndroidstudioProjects\RazorRunner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da"/>
+    <item
+        dex="C:\Users\Kai Tribble\AndroidstudioProjects\RazorRunner\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-a7944737c822f08d5ef4385dd5eb09422defd702.jar"
+        jar="C:\Android SDK\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+
+</pre-dex-items>
